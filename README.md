@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m Jákup Viljam Dam (JayVeeDee/JVD)!
-- 🌱 I’m currently studying Software Engineering at DTU (Technological University of Denmark)
-- ⚡ Fun fact: I'm a nerd. I won a CS:GO [competition](https://liquipedia.net/counterstrike/Elektron_Division) once! Also you're awesome!
+- 🌱 I have a Bachelor of Engineering degree in Software Technology from DTU (Technological University in Denmark) and am currently going for my Master in Computer Science and Engineering
+- ⚡ Fun fact: :O
 
 
 ![Jákup's github stats](https://github-readme-stats.vercel.app/api?username=jayveedee&show_icons=true)
